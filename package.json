@@ -1,0 +1,28 @@
+{
+  "name": "http_express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js",
+    "express": "nodemon express.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chetanchaudhari07/HTTP_Express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chetanchaudhari07/HTTP_Express/issues"
+  },
+  "homepage": "https://github.com/chetanchaudhari07/HTTP_Express#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-json-db": "^2.3.0",
+    "nodemon": "^3.1.4"
+  },
+  "devDependencies": {},
+  "description": ""
+}
